@@ -1,3 +1,5 @@
+# This Code is part of a custom exception handling module that provides a way to raise and log exceptions with detailed error messages.
+
 import sys
 # from src.logger import logging
 

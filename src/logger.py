@@ -1,3 +1,6 @@
+# This Code is part of a logging module that sets up a logging configuration to log messages to a file with a specific format and timestamp.
+# It creates a directory for logs if it doesn't exist and names the log file with the current timestamp.
+
 import logging
 import os
 from datetime import datetime
