@@ -1,3 +1,6 @@
+# This code is part of a data transformation pipeline that processes training and testing datasets,
+# applies transformations, and saves the preprocessor object for future use. It includes error handling and logging for better traceability.
+
 import sys
 from dataclasses import dataclass
 
