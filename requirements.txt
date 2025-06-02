@@ -6,4 +6,7 @@ scikit-learn
 catboost
 xgboost
 dill
+Flask
+
+# If you want to install the package in editable mode, uncomment the line below, This allows you to make changes to the package without reinstalling it.
 # -e .
